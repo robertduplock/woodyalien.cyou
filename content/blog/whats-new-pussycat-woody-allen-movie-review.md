@@ -9,14 +9,12 @@ tags:
 - Actor
 categories:
 - Reviews
-rating: 2
+rating: "2"
 
 ---
 In the wild, swinging 60s, there was a glut of silly, screwball comedies released. My favourites were the very English "Carry On" movies.
 
 Allen's interest in European cinema might have influenced his very first movie, _What's New Pussycat_. The movie is set in France, and for no obvious reason, everyone in it is American. The jokes are wild and silly, with lines like "Excuse me, I need to go the bathroom and take an overdose of sleeping pills."
-
-![](https://www.themoviedb.org/t/p/original/wdEhOzD5nb2fuj98qVJCEpCrCOe.jpg)
 
 Peter O'Toole, a huge star at the time, leads the movie as the serial womanizer and wannabe writer Michael James. The jokes are mainly about sex, and only about 30% of them are funny. I don't think there is any kind of a storyline. At one point a woman
 
