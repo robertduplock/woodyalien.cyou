@@ -16,6 +16,8 @@ In the wild, swinging 60s, there was a glut of silly, screwball comedies release
 
 Allen's interest in European cinema might have influenced his very first movie, _What's New Pussycat_. The movie is set in France, and for no obvious reason, everyone in it is American. The jokes are wild and silly, with lines like "Excuse me, I need to go the bathroom and take an overdose of sleeping pills."
 
+{{< inline-img src="https://www.themoviedb.org/t/p/original/wdEhOzD5nb2fuj98qVJCEpCrCOe.jpg" >}}
+
 Peter O'Toole, a huge star at the time, leads the movie as the serial womanizer and wannabe writer Michael James. The jokes are mainly about sex, and only about 30% of them are funny. I don't think there is any kind of a storyline. At one point a woman
 
 But all the usual Allen trademarks are there. There is a hopeless shrink, an older man who chases women, and references to art, cinema and death. Even bomb-packing French revolutionaries. Allen himself only appears in a handful of scenes.
