@@ -1,4 +1,4 @@
-{{ $rating := ($.Param "rating") }}
+{{ $rating := int ($.Param "rating") }}
 <div class="h3" aria-label="Score is {{ $rating }} out of 5">
   {{ range $i, $sequence := (seq 5) }}
     {{ if lt $i $rating }}
