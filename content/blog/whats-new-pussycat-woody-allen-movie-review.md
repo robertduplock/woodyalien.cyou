@@ -9,6 +9,7 @@ tags:
 - Actor
 categories:
 - Reviews
+rating: 2
 
 ---
 In the wild, swinging 60s, there was a glut of silly, screwball comedies released. My favourites were the very English "Carry On" movies.
