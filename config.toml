@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://every-woody-allen-movie.cyou"
+baseURL = "https://woody-alien.cyou/"
 title = "Every Woody Allen Movie"
 theme = "bookworm-light"
 # post pagination
